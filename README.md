@@ -2,4 +2,5 @@
 
 git flow 22
 - criação da branc dev 
-criacao de uma fature para teste
+criacao de uma feature para teste
+criacao da feature123
