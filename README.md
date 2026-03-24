@@ -1,3 +1,4 @@
 # info_php_26
 
-ola
+git flow
+- criação da branc dev 
