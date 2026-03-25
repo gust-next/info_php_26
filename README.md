@@ -1,5 +1,6 @@
 # info_php_26
 
-git flow 22
+<<<<<<< HEAD
+git flow
 - criação da branch dev 
 - criacao de uma fature para teste
